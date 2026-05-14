@@ -1,8 +1,11 @@
 import streamlit as st
 import joblib
 
-# Load trained model
-model = joblib.load("models/model.pkl")
+# Try loading model safely (choose the correct one)
+try:
+    model = joblib.load("models/model.pkl")
+except:
+    model = joblib.load("model/liar_model.pkl")
 
 # App title
 st.title("📰 Fake News Detection App")
