@@ -185,17 +185,8 @@ Prediction Result
 
 ---
 
-# 🤝 Contributing
 
-Contributions are welcome.
 
-Steps:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit changes
-4. Push changes
-5. Open a Pull Request
 
 ---
 
