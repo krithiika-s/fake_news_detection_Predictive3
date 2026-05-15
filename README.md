@@ -4,6 +4,10 @@ A Machine Learning and Natural Language Processing (NLP) project that detects wh
 
 This project uses text preprocessing, TF-IDF vectorization, and Machine Learning algorithms to classify news content efficiently through a simple Streamlit web application.
 
+problem statement : 
+Identify fake vs. real news articles using the LIAR or FakeNewsNet dataset. Apply linguistic features (readability, punctuation patterns), TF-IDF, and BERT embeddings. Train Logistic Regression, Gradient Boosting, and transformer models. Analyze linguistic patterns unique to fake news. Evaluate cross-domain generalization capability.
+
+
 ---
 
 # 📌 Project Overview
