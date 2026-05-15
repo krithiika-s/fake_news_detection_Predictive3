@@ -186,8 +186,8 @@ Prediction Result
 ---
 # 🤝 Contributing
 Contributors:
-   1. Krithika S-
-   2. Keerthana 
+   1. Krithika S- 253131
+   2. Keerthana-  
    3. Ardra V S- 253128
 
 
