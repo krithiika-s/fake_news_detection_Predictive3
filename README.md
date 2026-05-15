@@ -184,10 +184,10 @@ Prediction Result
 - Add live news verification APIs
 
 ---
-Contributors 
-Krithika S- 
-Keerthana-
-Ardra V S- 253128
+# 🤝 Contributing
+1. Krithika S-
+2. Keerthana 
+3. Ardra V S- 253128
 
 
 ---
