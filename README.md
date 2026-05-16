@@ -203,12 +203,8 @@ This project is developed for educational purposes.
 
 ---
 
-# 👩‍💻 Author
-
-Developed by **Krithiika**
-
-GitHub Repository:  
-https://github.com/krithiika-s/fake_news_detection_Predictive3
+Live link:
+https://fakenewsdetectionpredictive3-vpmnwtarqr9tkjp8stng4n.streamlit.app/
 
 ---
 
